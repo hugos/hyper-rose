@@ -1,7 +1,7 @@
 # Rose
 Colorscheme for the hyper terminal based in pink colours.
 
-![](screenshot.png)
+![](./public/store/screenshot.png)
 
 ## Install
 
